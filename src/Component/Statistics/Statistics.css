@@ -1,0 +1,5 @@
+button{
+    background-image:linear-gradient(to right, #ff512f, #f09819);
+    color: #fff;
+    cursor: pointer;
+}

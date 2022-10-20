@@ -1,0 +1,10 @@
+.notFound{
+    padding-top:20%;
+    
+}
+.notFound span{
+    color: #FF512F;
+}
+.notFound h1{
+    font-weight: 700;
+}
